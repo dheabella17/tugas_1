@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 1 </title>
+</head>
+<body>
+    <style>
+            body {
+                background-color : rgb(221, 222, 135) ;
+                color: black ;
+                font-family: 'Times New Roman', Times, serif ;   
+            }
+        </style>
+        <p> Hallo teman-teman pada saat ini saya mendapatkan tugas yaitu membuat biografi mengenai tokoh inspiratif 
+            dan tokoh inspiratif yang saya ambil saat ini yaitu Bapak.Bj Habibie.
+            Siapa si yang tidak mengenal sosok ini sosok yang dikenal sebagai Bapak Teknologi Indonesia.Beliau ini adalah 
+            seorang insinyur dan ilmuan yang jenius,dengan berbagai prestasi dan kontribusi yang telah mengubah wajah industri 
+            penerbangan dan teknologi di Indonesia.
+        </p>
+        <p>
+            <h1>BIOGRAFI</h1> 
+        </p>
+        <p><b>Prof.Dr.Ing.H.Bacharuddin Jusuf Habibie</b></p>
+        <img src="/biodata-bj-habibie.jpg" alt="Bj.Habibie" width="500px"> 
+        <p><b>Tempat dan tanggal lahir :Parepare,Sulawesi Selatan,25 Juni 1936</b></p>
+        <p><b>Wafat : Jakarta , 11 September 2019 </b></p>
+        <p><b>Jabatan : Presiden Republik Indonesia Ke-3 Tahun 1998-1999</b></p>
+        <p><H1>LATAR BELAKANG PENDIDIKAN</H1></p>
+        <p>B.J. Habibie merupakan anak keempat dari delapan bersaudara pasangan Alwi Abdul Jalil Habibie dan R.A. Tuti Marini Puspowardojo. 
+         Ia dikenal sebagai anak yang cerdas dan gemar membaca. Setelah menamatkan SMA di Bandung, Habibie melanjutkan pendidikan tinggi di 
+        *Technische Hochschule Aachen (Jerman Barat)* pada 1955, dan memperoleh gelar *Dipl.-Ing* (Insinyur) pada 1960 dan *Dr.-Ing* (Doktor Teknik) 
+           pada 1965 dalam bidang teknik penerbangan spesialisasi konstruksi pesawat.</p>
+        <P><h2>KARIER PROFESIONAL</h2></P>
+        <P> Setelah lulus, Habibie bekerja di *Messerschmitt-Bölkow-Blohm (MBB)*, 
+            perusahaan dirgantara Jerman. Di sana, ia menjadi salah satu insinyur 
+            terkemuka dan berjasa dalam pengembangan struktur pesawat terbang modern, terutama teori "Habibie Factor" 
+            dalam perhitungan retak pada badan pesawat.
+            Pada tahun 1974, ia dipanggil pulang oleh Presiden Soeharto dan diberi tugas memimpin pengembangan teknologi Indonesia. 
+            Ia menjadi *Menteri Negara Riset dan Teknologi (Menristek)* selama 20 tahun (1978–1998) 
+            dan menjadi Ketua Badan Pengkajian dan Penerapan Teknologi (BPPT).
+            Habibie juga mendirikan *PT Industri Pesawat Terbang Nurtanio (sekarang PT Dirgantara Indonesia)* 
+            dan menjadi arsitek utama pesawat terbang pertama buatan Indonesia, *N-250 Gatotkaca*, yang terbang perdana pada tahun 1995.</P>
+    </b></P>
+    <P><h3>KEPRESPDENAN</h3></P>
+        <P>Habibie menjadi *Wakil Presiden ke-7 RI* pada Maret 1998, lalu diangkat menjadi *Presiden ke-3 RI* pada Mei 1998 setelah Soeharto mundur di tengah krisis politik dan ekonomi. 
+            Masa pemerintahannya hanya sekitar *1 tahun 5 bulan*, namun penuh dengan reformasi penting </P>
+    <P><H4>PENCAPAIAN PENTING SEBAGAI PRESIDEN</H4></P>
+    <P><ol>
+       <li>Kebebasan Pers</li> 
+       Mencabut pembredelan media dan memperbolehkan berdirinya banyak media massa baru.
+       <li>Otonomi Daerah</li>
+       Mendorong desentralisasi melalui Undang-Undang Otonomi Daerah.
+       <li>Referendum Timor Timur</li>
+       Memberikan pilihan kepada rakyat Timor Timur untuk merdeka atau tetap bersama Indonesia, yang berujung pada kemerdekaan Timor Leste.
+       <li>Pemilihan Umum 1999</li>
+        Mempersiapkan pemilu demokratis pertama pasca Orde Baru.
+    </ol>
+       <p><h4>TIME LINE KEHIDUPAN BJ.HABIBIE</h4></p>
+       <table border="1 " bgcolor = Brown>
+        <tr bgcolor = "purple" >
+
+           <th rowspan="1" > Tahun </th>
+            <th colspan="1"> Peristiwa</th>
+        </tr>
+        <tr>
+            <td>1936</td>
+            <td>Lahir di Parepare,Selawesi Selatan</td>
+        </tr>
+            <td>1955</td>
+            <td>Kuliah di Jerman Barat *TH Aachen*</td>
+        </tr>
+        <tr>
+            <td>1960 </td>
+            <td>Meraih gelar Insinyur *Dipl.Ing*</td>
+        </tr>
+        <tr>
+            <td>1965</td>
+            <td>Meraih gelar Doktor Teknik *Dr.Ind*</td>
+        </tr>
+        <tr>
+            <td>1974</td>
+            <td>Kembali ke indonesia, bekerja untuk pemerintahan</td>
+        </tr>
+        <tr>
+            <td>1978</td>
+            <td>Dianggkat sebagai Menristek RI</td>
+        </tr>
+        <tr>
+            <td>1995</td>
+            <td>Peluncuran pesawat N-250</td>
+        </tr>
+        <tr>
+            <td>1998 Maret</td>
+            <td>Diangkat sebagai Wakil Presiden RI</td>
+        </tr>
+        <tr>
+            <td>1998 Mei</td>
+            <td>Menjadi Presiden RI ke-3</td>
+        </tr>
+        <tr>
+            <td>1999</td>
+            <td>Menolak dicalonkan kembali sebagai Presiden</td>
+        </tr>
+        <tr>
+            <td>2006 </td>
+            <td>Mendirikan Habibie Center,Lembaga pemikiran independen</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>Wafat di Jakarta dalam usia 83 tahun</td>
+        </tr>
+       </table>
+     <p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jXDUjbmDck0?si=M1_UGM22Fb1w5RQ2" 
+       title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </P>
+</body>
+</html>
